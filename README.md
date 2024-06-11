@@ -1,6 +1,12 @@
 ## Hi there 👋 I'm Joe
 I'm a software engineer.
 
+- 🔭 I’m currently working as a software engineer in CNC machine manufacturing.
+- 🌱 I’m currently learning AI.
+- 👯 I’m looking to collaborate on "Side Project".
+- 💬 Ask me about C#、WPF、JavaScript、C/C++
+- ⚡ Fun fact: 🤔
+
 ### ⚡ Skills:
 - WPF
 - Node.js
@@ -8,10 +14,10 @@ I'm a software engineer.
 - Nuxt.js
 
 ### My GitHub
- <div>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bingfenghung" alt="Gift's LangStat" />
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bingfenghung&langs_count=6&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
-</div>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bingfenghung&langs_count=6&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bingfenghung" alt="Gift's LangStat" /></p>
 
 ![](https://raw.githubusercontent.com/BingFengHung/BingFengHung/main/profile-3d-contrib/profile-season-animate.svg)
 
