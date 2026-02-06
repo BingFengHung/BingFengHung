@@ -15,10 +15,6 @@ I'm a software engineer.
 
 ### My GitHub
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bingfenghung&langs_count=6&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bingfenghung" alt="Gift's LangStat" /></p>
-
 ![](https://raw.githubusercontent.com/BingFengHung/BingFengHung/main/profile-3d-contrib/profile-season-animate.svg)
 
 
